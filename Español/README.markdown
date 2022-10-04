@@ -4,7 +4,7 @@ _Las letras se muestran en mayúsculas solo para facilitar la lectura. Capslock 
 
 ## ATAJOS
 
-| Atajo | Descripción |
+| Atajo  | Descripción |
 | ------ | ----------|
 | Ctrl + A | Ir al inicio de la linea en la que se esta escribiendo |
 | Ctrl + E | Ir al final de la linea en la que se esta escribiendo |
